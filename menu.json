@@ -1,0 +1,137 @@
+{
+  "name": "MediaBox Portal",
+  "type": "pages",
+  "background": "https://postimg.cc",
+  "template": {
+    "type": "separate",
+    "color": "transparent"
+  },
+  "items": [
+    {
+      "type": "space",
+      "layout": "4.5,0,3,2",
+      "image": "https://postimg.cc",
+      "focusable": false
+    },
+    {
+      "id": "drm-play",
+      "type": "space",
+      "layout": "1.3687,2.35,1.0125,1.2",
+      "image": "https://postimg.cc",
+      "label": "DRM-PLAY",
+      "action": "link:https://drm-play.ru"
+    },
+    {
+      "id": "ott-play",
+      "type": "space",
+      "layout": "3.0188,2.35,1.0125,1.2",
+      "image": "https://postimg.cc",
+      "label": "OTT-PLAY",
+      "action": "link:https://ott-play.com"
+    },
+    {
+      "id": "ott-play-foss",
+      "type": "space",
+      "layout": "4.6688,2.35,1.0125,1.2",
+      "image": "https://postimg.cc",
+      "label": "OTT-PLAY Foss",
+      "action": "link:https://eu.org"
+    },
+    {
+      "id": "zona",
+      "type": "space",
+      "layout": "6.3188,2.35,1.0125,1.2",
+      "image": "https://postimg.cc",
+      "label": "ZONA",
+      "action": "link:https://msxplayer.ru"
+    },
+    {
+      "id": "youtube-kids",
+      "type": "space",
+      "layout": "7.9688,2.35,1.0125,1.2",
+      "image": "https://postimg.cc",
+      "label": "YouTube Kids",
+      "action": "link:https://youtubekids.com"
+    },
+    {
+      "id": "lampa",
+      "type": "space",
+      "layout": "9.6188,2.35,1.0125,1.2",
+      "image": "https://postimg.cc",
+      "label": "LAMPA",
+      "action": "link:https://lampa.mx"
+    },
+    {
+      "id": "atodo",
+      "type": "space",
+      "layout": "1.3687,3.54,1.0125,1.2",
+      "image": "https://postimg.cc",
+      "label": "ATODO",
+      "action": "link:https://atodo.site"
+    },
+    {
+      "id": "gets-tv",
+      "type": "space",
+      "layout": "3.0188,3.54,1.0125,1.2",
+      "image": "https://postimg.cc",
+      "label": "GetsTV",
+      "action": "link:https://getstv.com"
+    },
+    {
+      "id": "rings-play",
+      "type": "space",
+      "layout": "4.6688,3.54,1.0125,1.2",
+      "image": "https://postimg.cc",
+      "label": "FILMIX Smart",
+      "action": "link:https://filmix.app"
+    },
+    {
+      "id": "youtube",
+      "type": "space",
+      "layout": "6.3188,3.54,1.0125,1.2",
+      "image": "https://postimg.cc",
+      "label": "YouTube",
+      "action": "link:https://youtube.com"
+    },
+    {
+      "id": "d-reel",
+      "type": "space",
+      "layout": "7.9688,3.54,1.0125,1.2",
+      "image": "https://postimg.cc",
+      "label": "DEEPLEX",
+      "action": "link:https://deeplex.net"
+    },
+    {
+      "id": "f-letter",
+      "type": "space",
+      "layout": "9.6188,3.54,1.0125,1.2",
+      "image": "https://postimg.cc",
+      "label": "FORKPLAYER",
+      "action": "link:https://forkplayer.tv"
+    },
+    {
+      "id": "ott-player",
+      "type": "space",
+      "layout": "1.3687,4.73,1.0125,1.2",
+      "image": "https://postimg.cc",
+      "label": "OTT Player",
+      "action": "link:https://ottplayer.tv"
+    },
+    {
+      "id": "akter-black",
+      "type": "space",
+      "layout": "3.0188,4.73,1.0125,1.2",
+      "image": "https://postimg.cc",
+      "label": "AKTER.BLACK",
+      "action": "link:https://akter.black"
+    },
+    {
+      "id": "lampa-lite",
+      "type": "space",
+      "layout": "4.6688,4.73,1.0125,1.2",
+      "image": "https://postimg.cc",
+      "label": "LAMPA LITE",
+      "action": "link:https://lampa.mx"
+    }
+  ]
+}
